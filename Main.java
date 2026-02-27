@@ -14,7 +14,7 @@ public class Main {
         }
     }
     private static int parition(int array[], int left, int right){
-        int end = array[right];
+        // int end = array[right];
         int start = left - 1;
         int temp = array[start + 1];
         array[start + 1] = array[right];
