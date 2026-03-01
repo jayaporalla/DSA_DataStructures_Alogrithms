@@ -10,8 +10,6 @@ public class LinkedListOperations {
         }
     }
     public static void main(String[] args) {
-        // Node node1 = new Node(5);
-        // Node node2 = new Node(4);
-        // Node node3 = new Node(2);
+        
     }
 }
