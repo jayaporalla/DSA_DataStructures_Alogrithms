@@ -13,5 +13,7 @@ public class LinkedListOperations {
         Node data1 = new Node(5);
         Node data2 = new Node(4);
         Node data3 = new Node(2);
+
+        System.out.print("Node data: ");
     }
 }
